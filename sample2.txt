@@ -1,1 +1,3 @@
 Sample 2
+
+Changes made on Github by directly editing the file there.
